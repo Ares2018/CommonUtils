@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">utils</string>
+    <string name="error_invalid_apk_url">无效的URL</string>
+    <string name="error_invalid_apk_file">不是有效的安装包</string>
 </resources>
