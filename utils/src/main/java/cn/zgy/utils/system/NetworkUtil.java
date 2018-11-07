@@ -1,4 +1,4 @@
-package cn.zgy.utils.utils;
+package cn.zgy.utils.system;
 
 import android.content.Context;
 import android.location.LocationManager;
